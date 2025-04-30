@@ -51,7 +51,7 @@ const Forms = ({ darkMode }) => {
               <div>
                 <h5>Support</h5>
                 <p>
-                  <i className="fal fa-envelope"></i> Office@tuyyoo.com
+                  <i className="fal fa-envelope"></i> Office@tuyyoo.com 
                 </p>
               </div>
 
